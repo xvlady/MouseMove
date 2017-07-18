@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017.07.18 08:06:55.119,=C:\Users\xvv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.07.18 08:21:14.602,F:\APRG\miniTools\mouseMove\UMain.pas=C:\Users\xvv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.07.18 08:21:14.602,F:\APRG\miniTools\mouseMove\UMain.dfm=C:\Users\xvv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017.07.18 08:21:24.353,F:\APRG\miniTools\mouseMove\MouseMove.dproj=C:\Users\xvv\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
