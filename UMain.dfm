@@ -2,8 +2,8 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = #1055#1088#1086#1089#1090#1086' '#1089#1074#1077#1088#1085#1080#1090#1077' '#1101#1090#1086' '#1087#1088#1080#1083#1086#1078#1077#1085#1080#1077
-  ClientHeight = 27
-  ClientWidth = 480
+  ClientHeight = 63
+  ClientWidth = 417
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -182,12 +182,13 @@ object Form1: TForm1
     000181000003C1C00083FBF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
   OldCreateOrder = False
+  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
   object lbl1: TLabel
     Left = 0
     Top = 0
-    Width = 480
+    Width = 417
     Height = 13
     Align = alTop
     Caption = 
@@ -238,14 +239,12 @@ object Form1: TForm1
     DropDownMenu = pm1
     PopupMenu = pm1
     Visibility = [tvVisibleTaskBar, tvVisibleTaskList, tvAutoHide, tvAutoHideIcon, tvMinimizeClick]
-    Left = 152
-    Top = 128
+    Left = 120
   end
   object tmr1: TTimer
     Interval = 900000
     OnTimer = tmr1Timer
-    Left = 136
-    Top = 48
+    Left = 72
   end
   object pm1: TPopupMenu
     Left = 312
